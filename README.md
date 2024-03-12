@@ -22,8 +22,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: ...
-- Live Site URL: ...
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/recipe-page-nPDGuH4Xkc)
+- Live Site URL: [Live Site](https://hyeonpearl.github.io/recipe-page-main/)
 
 ## My process
 
