@@ -16,9 +16,10 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![screenshot1](https://github.com/hyeonpearl/recipe-page-main/assets/100837398/741364a1-7d6b-45e2-8a77-4d4937364b12)
 
-![screenshot2](https://github.com/hyeonpearl/recipe-page-main/assets/100837398/02486537-5491-4fc5-9a66-bbe3bcf87709)
+![스크린샷 2024-03-12 14 52 10](https://github.com/hyeonpearl/recipe-page-main/assets/100837398/62830702-f01d-48b2-9f25-b5716306909c)
+
+
 
 ### Links
 
